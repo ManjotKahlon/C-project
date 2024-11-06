@@ -1,3 +1,5 @@
+TITLE - CURRENCY CONVERTER
+
 #include <stdio.h>
 
 void displayMenu();
